@@ -1,0 +1,6 @@
+[global.databases.password_manager]
+url = "postgres://postgres:pass123@localhost:2000/password-manager"
+
+[default]
+address = "127.0.0.1"
+port = 8080
